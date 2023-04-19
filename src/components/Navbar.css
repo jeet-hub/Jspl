@@ -1,0 +1,122 @@
+.nav {
+    width: 100%;
+    height: 105px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    /* border: 1px solid #000000; */
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  
+  }
+  
+  th,
+  td {
+    text-align: left;
+    padding: 5px !important;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .d2 {
+    gap: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  .nav_box {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  .logo-2 {
+    margin-left: 5px;
+  }
+  
+  .date_time {
+    background:rgb(175, 5, 110);
+    color: #ffffff;
+    margin-bottom: 0 !important;
+    height: 105px;
+    /* margin-top: 10px ; */
+  }
+  
+  .dt_content {
+    line-height: 15px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+@media screen and (max-width:768px) {
+    .nav {
+        /* background-color: red !important; */
+        width: 100%;
+        height: auto;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-size: 12px;
+        gap: 0 !important;
+      }
+    .table{
+        /* background-color: rgb(74, 63, 63) !important; */
+        border-collapse: collapse;
+        border-spacing: 0;
+        width: 100% !important;
+     /* border: 1px solid #000000; */
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+       
+    }
+
+    th,
+    td {
+      text-align: left;
+      /* padding-bottom:10px !important; */
+      padding: 0px !important;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      font-size: 12px;
+    }
+
+    .logo {
+      width:70px !important;
+      height: 60px  !important;
+      padding: 5px;
+        margin-right: 0px !important;
+        margin-top: -10px;
+      
+      }
+      
+      .date_time {
+       
+        background:rgb(175, 5, 110);
+        color: #ffffff;
+        height: 76px;
+        /* margin-top: -10px ; */
+      }
+      
+      .dt_content {
+        line-height: 10px;
+        font-size: 10px;
+        font-weight: bold;
+       
+        
+      }
+
+      .nav_box{
+        display: flex;
+        align-items: center;
+      }
+}
