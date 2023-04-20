@@ -129,7 +129,8 @@ text-align: start;
 
 }
 .box-1{
-  background-color: #6ef84b;
+  background-color: rgb(175, 5, 110);
+  color: #fff;
 }
 
 .box_1_data{
@@ -141,18 +142,22 @@ padding: 15px;
 }
 
 .box-2{
-  background-color: #f816d2;
+  background-color:rgb(175, 5, 110);
+  color: #fff;
 }
 
 .box-3{
-  background-color: #663cff;
+  background-color: rgb(175, 5, 110);
+  color: #fff;
 }
 .data-update{
   font-size: 25px;
   margin-right: 10px;
+  
 }
 .button-data{
   font-size: 18px;
+  border-radius: 10px !important;
 }
 
 .all{

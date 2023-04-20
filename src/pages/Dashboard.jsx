@@ -49,7 +49,7 @@ const Dashboard = () => {
                   </div>
               </div>
               <div className='heat_img_main col-4 col-sm-3'>
-                <img className='heat_img' src='./img/heat_meter.gif' alt='pouring-gold' style={{ width: 80, height: 120 }} />
+                <img className='heat_img' src='./img/heat_meter.gif' alt='pouring-gold' style={{ width: 120, height: 160 }} />
               </div>
             </div>
           </div>
@@ -77,7 +77,7 @@ const Dashboard = () => {
                   </div>
               </div>
               <div className='heat_img_main col-4 col-sm-3'>
-                <img className='heat_img' src='./img/heat-img.gif' alt='pouring-gold' style={{ width: 80, height: 120 }} />
+                <img className='heat_img' src='./img/heat-img.gif' alt='pouring-gold' style={{ width: 120, height: 160 }} />
               </div>
             </div>
           </div>
@@ -116,7 +116,7 @@ const Dashboard = () => {
                   </div>
               </div>
               <div className='heat_img_main col-4 col-sm-3'>
-                <img className='heat_img' src='./img/inner-machine.png' alt='pouring-gold' style={{ width: 120, height: 160 }} />
+                <img className='heat_img' src='./img/inner-machine.png' alt='pouring-gold' style={{ width: 200, height: 200 }} />
               </div>
             </div>
           </div>
@@ -150,7 +150,7 @@ const Dashboard = () => {
                   </div>
               </div>
               <div className='heat_img_main col-4 col-sm-3'>
-                <img className='heat_img' src='./img/machine2.png' alt='pouring-gold' style={{ width: 120, height: 160 }} />
+                <img className='heat_img' src='./img/machine2.png' alt='pouring-gold' style={{ width: 200, height: 200 }} />
               </div>
             </div>
           </div>

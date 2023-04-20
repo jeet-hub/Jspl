@@ -9,8 +9,7 @@ import {
   FaShoppingBag,
   FaThList
 } from 'react-icons/fa';
-import { BsFillLightningChargeFill, BsPlugFill, BsFillBugFill, BsFillCpuFill, BsArrowRepeat,BsArrowLeftRight,BsInfoCircle} from "react-icons/bs";
-
+import { BsFillLightningChargeFill, BsPlugFill, BsFillBugFill,BsFillSquareFill, BsFillCpuFill, BsArrowRepeat,BsArrowLeftRight,BsInfoCircle} from "react-icons/bs";
 
 
 const Connectivity = () => {
